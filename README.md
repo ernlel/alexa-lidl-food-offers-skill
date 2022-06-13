@@ -1,4 +1,4 @@
-# Alexa skill to tell Lidl food offers in shop.
+# Alexa skill to tell you Lidl food offers currently in the shop.
 
 ## Content
 
